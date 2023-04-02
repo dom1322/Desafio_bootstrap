@@ -1,0 +1,110 @@
+
+
+.navbar-brand img{
+
+    width: 30%;
+}
+.card-tarjeta1{
+    padding-top: 2%;
+}
+
+.icono-text1{
+
+    display: flex;
+}
+
+.fa-solid{
+    padding-right: 7px;
+}
+
+.direccion-1{
+    color: rgb(98, 97, 97);
+}
+
+h5{
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.card-tarjeta2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.icono-text1 p{
+    
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+}
+
+.card-footer-tarjeta-1{
+
+    display: flex;
+    padding-left: 60%;
+    justify-content: center;
+}
+
+.text-card{
+
+    padding-right: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+}
+
+.text-card-one{
+
+    color: #28a745 ;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.card-footer-tarjeta-2{
+
+    display: flex;
+    padding-left: 60%;
+    justify-content: center;
+}
+
+.form{
+
+    text-align: center;
+    background-color: #28a745;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.form h5{
+    color: aliceblue;
+    padding-top: 3%;
+}
+
+.botton-end{
+
+    padding-top: 1%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+
+}
+
+.container img{
+
+    padding-left: 26%;
+    width: 36%;
+
+}
+
+.text-cuppon{
+
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    padding-left: 33%;
+   
+}
+footer{
+
+    margin-bottom: 76%;
+}
